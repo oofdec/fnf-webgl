@@ -1,0 +1,6 @@
+Value 1 determines opponent strum color
+Value 2 determines player strum color
+
+1 = default
+2 = red
+3 = special red

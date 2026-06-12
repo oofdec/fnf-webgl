@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clock.png">
+<SubTexture name="clock idle0000" x="0" y="0" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0001" x="308" y="0" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0002" x="0" y="307" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0003" x="308" y="307" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0004" x="616" y="0" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0005" x="616" y="307" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0006" x="0" y="614" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0007" x="308" y="614" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0008" x="616" y="614" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0009" x="924" y="0" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0010" x="924" y="307" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0011" x="924" y="614" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+<SubTexture name="clock idle0012" x="0" y="921" width="308" height="307" frameX="-313" frameY="-72" frameWidth="1000" frameHeight="525" />
+</TextureAtlas>

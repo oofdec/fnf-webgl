@@ -1,0 +1,2 @@
+value1 = color of overlay
+value2 = color of player
