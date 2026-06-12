@@ -1,2 +1,0 @@
-value 1 = opacity
-value 2 = time
