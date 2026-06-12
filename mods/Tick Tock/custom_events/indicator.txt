@@ -1,0 +1,3 @@
+indicates what strumline the player will be using next
+
+(left/right)
